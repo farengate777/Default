@@ -1,1 +1,2 @@
-# Default
+### Minima validator
+### Cosmos validator
